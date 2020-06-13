@@ -1,0 +1,11 @@
+Hello everyone!!!
+
+Today we are going to develop label in GUIand perform a various operation on Label as 
+below :
+
+>> create label
+>> width and height of label 
+>> change BG of label
+>> edit FG of Label(text and text color)
+>> change label style and border of label     (flat,raised,sunken,ridge,solid,groove)
+ 
